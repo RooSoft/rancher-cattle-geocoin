@@ -1,0 +1,9 @@
+name: geocoin
+description: |
+    Geocoin wallet
+    For mining
+version: 0.1
+category: shitcoins
+maintainer: FudZero
+license: MIT
+projectURL: https://github.com/onetimer/onetimer
