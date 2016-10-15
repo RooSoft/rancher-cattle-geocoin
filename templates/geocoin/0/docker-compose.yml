@@ -1,7 +1,7 @@
 app:
   image: roosoft/mazacoin
   working_dir: /wallet
-  command: /bin/bash
+  command: echo testing
   volumes:
     - /wallets/mazacoin:/wallet
 
